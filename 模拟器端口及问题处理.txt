@@ -1,0 +1,10 @@
+MuMu模拟器连接Adb
+adb connect 127.0.0.1:7555
+
+adb connect 127.0.0.1:7555 MuMu
+adb connect 127.0.0.1:5555 雷电
+adb connect 127.0.0.1:62001 夜神
+
+
+夜神模拟器超过2G需要把包导入到共享文件中 然后安装才能成功
+超过2G Android Gradle需要4.2及以上
